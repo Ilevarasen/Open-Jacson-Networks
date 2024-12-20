@@ -27,7 +27,10 @@ NAME:ILEVARARSEN.S
 
 REG NO:24900688
 
-https://www.programiz.com/online-compiler/5NwKdipC8BllJ
+![Screenshot 2024-12-20 195336](https://github.com/user-attachments/assets/bc5a6a6f-67d6-4292-9bed-f995ac96c969)
+![Screenshot 2024-12-20 195357](https://github.com/user-attachments/assets/c6943eb7-0407-44a0-8010-bff7b3c074d6)
+
+
 ### Output
 ![Screenshot 2024-12-20 194857](https://github.com/user-attachments/assets/e02ecd1f-d57d-4a24-9d9d-4184888caa48)
 
